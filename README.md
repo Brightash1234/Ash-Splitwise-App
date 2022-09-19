@@ -2,5 +2,8 @@
 This is a splitwise application built using C++
 
 
-https://user-images.githubusercontent.com/82575301/190255922-7bf6fbe0-0b95-469a-a655-13e6e7ead126.mp4
+
+https://user-images.githubusercontent.com/82575301/191093935-54467936-eccf-4bf9-b7e9-6aefd4f02d39.mp4
+
+
 
